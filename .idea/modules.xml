@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/adstractClass_interface.iml" filepath="$PROJECT_DIR$/.idea/adstractClass_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/bt_interfaceChoLopHinhHoc/bt_interfaceChoLopHinhHoc.iml" filepath="$PROJECT_DIR$/interface/bt_interfaceChoLopHinhHoc/bt_interfaceChoLopHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt_interfaceChoLopHinhHoc1/bt_interfaceChoLopHinhHoc1.iml" filepath="$PROJECT_DIR$/bt_interfaceChoLopHinhHoc1/bt_interfaceChoLopHinhHoc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_colorable/interface_colorable.iml" filepath="$PROJECT_DIR$/interface_colorable/interface_colorable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th3_Comparator/th3_Comparator.iml" filepath="$PROJECT_DIR$/th3_Comparator/th3_Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../md2_java/vd/vd.iml" filepath="$PROJECT_DIR$/../md2_java/vd/vd.iml" />
+    </modules>
+  </component>
+</project>
